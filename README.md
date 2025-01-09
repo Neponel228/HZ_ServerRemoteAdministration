@@ -1,5 +1,6 @@
 # HZ_ServerRemoteAdministration
 This is shomething like shell for remote administratration/configuration my own computers/VDS/VPS =)
+
 U can use it free, cause i wrote it in 5 minuts (-_-)
 
 
